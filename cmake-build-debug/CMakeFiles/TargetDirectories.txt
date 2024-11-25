@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Task 4 Dynamic Array Resizing/cmake-build-debug/CMakeFiles/Task_4_Dynamic_Array_Resizing.dir
+C:/Users/pc/CLionProjects/Task 4 Dynamic Array Resizing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Task 4 Dynamic Array Resizing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
